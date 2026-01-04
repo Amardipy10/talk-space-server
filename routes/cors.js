@@ -15,6 +15,7 @@ const whitelist = [
 
   'https://shubh-meet.herokuapp.com',
   'https://talkspaceta.netlify.app',
+  'https://astounding-kheer-15a7ae.netlify.app'
 ];
 
 const corsOptionsDelegate = (req, callback) => {
